@@ -1,4 +1,4 @@
-export interface PodcastModel {
+export interface PodcastDTO {
     podcastName: string,
     episode: string,
     videoId: string,
